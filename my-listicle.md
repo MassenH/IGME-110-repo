@@ -1,4 +1,4 @@
-#My Favorite Websites
+# My Favorite Websites
 
 **These are my favorite websites**:satisfied: :relaxed:
 
@@ -12,7 +12,7 @@ https://www.instagram.com/?hl=en
 
 https://www.tiktok.com/en/
 
-##My Favorite Anime Characters :grin: :relaxed:
+## My Favorite Anime Characters :grin: :relaxed:
 
 <image width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/4e961ab1-2426-4aae-8a2a-4980720a60b3" />
 
