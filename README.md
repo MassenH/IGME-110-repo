@@ -5,7 +5,7 @@
 
 I am a **student** in **IGME** 110.
 
-##**Things that I like**
+## **Things that I like**
 
 1. **Gaming**
    
